@@ -8,4 +8,4 @@ I honestly think that the Vortex language is interesting.  I came across it and 
 The original PDF is here for anyone interested.
 
 #### PDF
-[File]()
+[File](https://github.com/kieranz/vortex-docs/blob/master/Tet.pdf)
