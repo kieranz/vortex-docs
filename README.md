@@ -1,6 +1,6 @@
 ## Documentation for Vortex
 
-Go to the (Wiki)[https://github.com/kieranz/vortex-docs/wiki "Wiki"] for Docs
+Go to the [Wiki](https://github.com/kieranz/vortex-docs/wiki) for Docs
 
 #### Explanation
 
